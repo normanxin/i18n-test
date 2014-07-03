@@ -1,0 +1,13 @@
+{
+	"languages": ["Japanese", "Russian"],
+	"entries": {
+		"Who will win the World Cup": {
+			"Japanese": "誰がワールドカップで勝つのだろうか",
+			"Russian": "Кто выиграет чемпионат мира"
+		},
+		"Costa Rica": {
+			"Japanese": "コスタリカ",
+			"Russian": "Коста-Рика"
+		}
+	}
+}
